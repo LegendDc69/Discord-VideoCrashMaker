@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/AstraaDev"><img src="https://reactjsexample.com/content/images/2018/04/react-github-corner.jpg" width="546"></a>
+    <a href="https://github.com/AstraaDev"><img src="https://jsemroman.cz/img/github-corner.png" width="546"></a>
   </p>
 </div>
 
