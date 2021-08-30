@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/AstraaDev"><img src="https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPG" width="546"></a>
+    <a href="https://github.com/AstraaDev"><img src="https://bigbrassband.com/confluence/images/github-logo.svg" width="546"></a>
   </p>
 </div>
 
