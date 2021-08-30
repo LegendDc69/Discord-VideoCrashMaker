@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/AstraaDev"><img src="https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPGg" width="546"/></a>
+    <img src="https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPGg" width="546"/>
   </p>
 </div>
 
