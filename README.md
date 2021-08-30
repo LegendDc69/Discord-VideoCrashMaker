@@ -30,13 +30,16 @@ First of all, this is not something directly related to Discord. Discord's deskt
 
 <br>
 
-# Author
+## Author
+
 **Astraa**
-    - [Github](https://github.com/AstraaDev)
-    - [Twitter](https://twitter.com/AstraaDev)
-    - [Discord](https://discord.gg/pUZrFnabvd)
-    - [WebSite](http://astraadev.club/)
-    - [PayPal.me](https://www.paypal.com/paypalme/fmrhrt)
+
++ [Github](https://github.com/AstraaDev)
++ [Twitter](https://twitter.com/AstraaDev)
++ [Github](https://github.com/AstraaDev)
++ [Twitter](https://twitter.com/AstraaDev)
++ [Discord](https://discord.gg/pUZrFnabvd)
++ [WebSite](http://astraadev.club/)
  
 <br>
 
