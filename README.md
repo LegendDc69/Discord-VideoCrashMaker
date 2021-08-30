@@ -1,10 +1,6 @@
 # Discord VideoCrashMaker [![NPM version](https://badge.fury.io/js/stringify-authors.svg)]()  [![Build Status](https://travis-ci.org/jonschlinkert/stringify-authors.svg)]()
 
-> Converts an author object or array of author objects into an array of strings. Useful for adding authors, maintainers or contributors to documentation, package.json or a readme.
-
-<h1 align="center">Discord VideoCrashMaker</h1>
-<p align="center"Create videos to crash discord.</p>
-Convert the video of your choice into an identical video except that it can crash any discord when playing (uses FFmpeg method).
+> CConvert the video of your choice into an identical video except that it can crash any discord when playing (uses FFmpeg method).
 
 # Features
  - FFmpeg need to be install.
