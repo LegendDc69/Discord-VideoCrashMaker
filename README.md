@@ -1,7 +1,7 @@
-<div align="right">
+<div align="center">
   <br />
   <p>
-    <a href="https://github.com/AstraaDev"><img src="https://jsemroman.cz/img/github-corner.png" width="100"></a>
+    <a href="https://github.com/AstraaDev"><img src="https://www.deuse.be/media/images/github.png.pagespeed.ce.J8O2xd9Zqx.png" width="100"></a>
   </p>
 </div>
 
