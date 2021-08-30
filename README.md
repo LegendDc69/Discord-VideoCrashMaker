@@ -3,10 +3,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/booleans-oss/Discgit"><img src="https://i.imgur.com/AUGULdM.png" width="546" alt="discgit" /></a>
-  </p>
-  <br />
-    <a href="https://nodei.co/npm/discgit/"><img src="https://nodei.co/npm/discgit.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+    <a href="https://github.com/booleans-oss/Discgit"><img src="https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPGg" width="546" alt="discgit" /></a>
   </p>
 </div>
 
