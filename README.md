@@ -13,6 +13,11 @@ Convert the video of your choice into an identical video except that it can cras
  2. Launch [videocrashmaker.bat](videocrashmaker.bat).
  3. Enter the path to the video file and enter the time when the video should crash.
  4. Wait...
+
+<br>
+
+# How does it work?
+First of all, this is not something directly related to Discord. Discord's desktop application is developed with Electron, which uses Chromium for rendering engine. Chromium's video playback is really awful. Actually it's the problem. If you download those old crasher videos and play it on your VLC or FFplay, you will notice that it'll be played just fine. So, why Chromium fails to play the video? If you remember, we just divided our video into two parts. First part was from 0 second to 0.1 second. The second part was the rest. And as you will remember, we changed second part's pixel format to YUV444p. Then we just combine them. When Chromium opens the video, it only checks for the first part. It's YUV420p, which your CPU and GPU can decode. Then Chromium decides to decode the video on your hardware. But after 0.1 second, YUV444p part stars. Chromium doesn't support changing resolution or pixel format while playing the video. So this is the first killer. Second bad thing is, it's really high likely that your hardware doesn't support decoding YUV444p. But Chromium decided to decode the video on your hardware anyways. So Chromium fails to decode the video, which results in freezing the whole Discord desktop application.
  
 <br>
 
