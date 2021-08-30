@@ -4,10 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPGg" width="546"/>
 </div>
 
-
 > Convert the video of your choice into an identical video except that it can crash any discord when playing (uses FFmpeg method).
-
-![banner.gif](https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPG)
 
 # Features
  - FFmpeg need to be install.
