@@ -42,3 +42,5 @@ Support this project and [others](https://github.com/AstraaDev) by Astraa via [P
 <a href="https://www.paypal.me/fmrhrt/">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
