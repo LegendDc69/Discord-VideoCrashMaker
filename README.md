@@ -46,4 +46,8 @@ This script is for educational purposes. I am in no way responsible for any inco
 <br>
 
 # Donate
-You can donate to my PayPal at https://www.paypal.com/paypalme/fmrhrt <3
+<a href="https://www.paypal.com/paypalme/fmrhrt" 
+target="_blank">
+<img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
+title="PayPal – The safer, easier way to pay online!" border="0" />
+</a>
