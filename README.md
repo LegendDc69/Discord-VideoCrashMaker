@@ -1,5 +1,16 @@
 # Discord VideoCrashMaker [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]()
 
+<div align="center">
+  <br />
+  <p>
+    <a href="https://github.com/booleans-oss/Discgit"><img src="https://i.imgur.com/AUGULdM.png" width="546" alt="discgit" /></a>
+  </p>
+  <br />
+    <a href="https://nodei.co/npm/discgit/"><img src="https://nodei.co/npm/discgit.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+  </p>
+</div>
+
+
 > Convert the video of your choice into an identical video except that it can crash any discord when playing (uses FFmpeg method).
 
 ![banner.gif](https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPG)
