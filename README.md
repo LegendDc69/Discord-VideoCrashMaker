@@ -3,7 +3,8 @@
 Convert the video of your choice into an identical video except that it can crash any discord when playing (uses FFmpeg method).
 
 # Features
- - ...
+ - FFmpeg need to be install.
+ - Possibility to choose the time at which the video should crash.
  
 <br>
 
