@@ -21,6 +21,15 @@ First of all, this is not something directly related to Discord. Discord's deskt
  
 <br>
 
+# How can I avoid crasher videos?
+  1. Open Discord
+  2. Go to User Settings, then navigate to Advanced.
+  3. You will see an option named "Hardware Acceleration".
+  4. Disable it and restart your Discord.
+=> Now, all of the videos you watch will be decoded by the software.
+
+<br>
+
 # Author
 - **Astraa**
     - [Github](https://github.com/AstraaDev)
