@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/AstraaDev"><img src="https://www.deuse.be/media/images/github.png.pagespeed.ce.J8O2xd9Zqx.png" width="500"></a>
+    <a href="https://github.com/AstraaDev"><img src="https://www.swiftement.fr/wp-content/uploads/2018/04/github-banner.png" width="500"></a>
   </p>
 </div>
 
