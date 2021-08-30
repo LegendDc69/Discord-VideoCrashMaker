@@ -36,8 +36,6 @@ First of all, this is not something directly related to Discord. Discord's deskt
 
 + [Github](https://github.com/AstraaDev)
 + [Twitter](https://twitter.com/AstraaDev)
-+ [Github](https://github.com/AstraaDev)
-+ [Twitter](https://twitter.com/AstraaDev)
 + [Discord](https://discord.gg/pUZrFnabvd)
 + [WebSite](http://astraadev.club/)
  
