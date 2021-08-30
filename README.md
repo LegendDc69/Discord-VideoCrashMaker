@@ -1,7 +1,6 @@
 # Discord VideoCrashMaker [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]()
 
 <div align="center">
-  <br />
   <p>
     <a href="https://github.com/AstraaDev"><img src="https://cdn.discordapp.com/attachments/821096257120239616/881867101030207538/IMG_5471.JPGg" width="546"/></a>
   </p>
