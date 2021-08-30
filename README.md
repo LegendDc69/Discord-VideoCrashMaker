@@ -32,6 +32,7 @@ First of all, this is not something directly related to Discord. Discord's deskt
 # Caution
 This script is for educational purposes. I am in no way responsible for any inconvenience.
 
+# Credits
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AstraaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AstraaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://astraadev.club)  
 
 # Donate
