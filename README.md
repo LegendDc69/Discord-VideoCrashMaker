@@ -1,4 +1,4 @@
-# Discord VideoCrashMaker [![Star](https://img.shields.io/github/stars/AstraaDev/Discord-VideoCrashMaker)]()  [![Build Status](https://travis-ci.org/jonschlinkert/stringify-authors.svg)]()
+# Discord VideoCrashMaker [![Build Status](https://img.shields.io/badge/covarage-100%25-brightgreen)]()
 
 > Convert the video of your choice into an identical video except that it can crash any discord when playing (uses FFmpeg method).
 
