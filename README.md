@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <br />
   <p>
     <a href="https://github.com/AstraaDev"><img src="https://jsemroman.cz/img/github-corner.png" width="100"></a>
