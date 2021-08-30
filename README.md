@@ -29,6 +29,7 @@ Second bad thing is, it's really high likely that your hardware doesn't support 
   2. Go to User Settings, then navigate to Advanced.
   3. You will see an option named "Hardware Acceleration".
   4. Disable it and restart your Discord.
+<br>
 => Now, all of the videos you watch will be decoded by the software.
 
 # Caution
