@@ -46,6 +46,6 @@ This script is for educational purposes. I am in no way responsible for any inco
 <br>
 
 # Donate
-<a href="https://www.paypal.me/USERNAME/">
+<a href="https://www.paypal.me/fmrhrt/">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
