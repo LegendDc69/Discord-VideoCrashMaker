@@ -1,4 +1,4 @@
-# stringify-authors [![NPM version](https://badge.fury.io/js/stringify-authors.svg)]()  [![Build Status](https://travis-ci.org/jonschlinkert/stringify-authors.svg)]()
+# Discord VideoCrashMaker [![NPM version](https://badge.fury.io/js/stringify-authors.svg)]()  [![Build Status](https://travis-ci.org/jonschlinkert/stringify-authors.svg)]()
 
 > Converts an author object or array of author objects into an array of strings. Useful for adding authors, maintainers or contributors to documentation, package.json or a readme.
 
