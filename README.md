@@ -22,23 +22,16 @@ First of all, this is not something directly related to Discord. Discord's deskt
   4. Disable it and restart your Discord.
 => Now, all of the videos you watch will be decoded by the software.
 
-<br>
-
 ## Author
-
 **AstraaDev**
 
 + [Github](https://github.com/AstraaDev)
 + [Twitter](https://twitter.com/AstraaDev)
 + [Discord](https://discord.gg/pUZrFnabvd)
 + [WebSite](http://astraadev.club/)
- 
-<br>
 
 # Caution
 This script is for educational purposes. I am in no way responsible for any inconvenience.
-
-<br>
 
 # Donate
 Support this project and [others](https://github.com/AstraaDev) by Astraa via [PayPal](https://www.paypal.com/).
